@@ -1,0 +1,28 @@
+{
+    "name": "@types/remarkable",
+    "version": "1.0.0",
+    "description": "Typescript declares for Remarkable",
+    "main": "index.js",
+    "scripts": {
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/arnozhang/types-remarkable.git"
+    },
+    "keywords": [
+        "Remarkable",
+        "Types"
+    ],
+    "types": "index.d.ts",
+    "files": [
+        "src/",
+        "types/",
+        "xsd/"
+    ],
+    "author": "arnozhang",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/arnozhang/types-remarkable/issues"
+    },
+    "homepage": "https://github.com/arnozhang/types-remarkable#readme"
+}
