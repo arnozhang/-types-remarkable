@@ -2,7 +2,6 @@
     "name": "@types/remarkable",
     "version": "1.0.0",
     "description": "Typescript declares for Remarkable",
-    "main": "index.js",
     "scripts": {
     },
     "repository": {
@@ -15,9 +14,7 @@
     ],
     "types": "index.d.ts",
     "files": [
-        "src/",
-        "types/",
-        "xsd/"
+        "index.d.ts"
     ],
     "author": "arnozhang",
     "license": "MIT",
